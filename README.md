@@ -8,5 +8,3 @@
 - **Example Output**: Sample output after running the script.
 - **License**: Licensing information (assuming MIT License, but you can modify as needed).
 - **Contributions**: Invites others to contribute to the project.
-
-Let me know if you need any changes or additional info
