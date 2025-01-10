@@ -1,33 +1,23 @@
-# Code of Conduct
+# Contributing to [Project Name]
 
-## Our Pledge
-We pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We are excited that you are interested in contributing to [Project Name]! By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Below you will find information on how to get started, report issues, and submit contributions.
 
-We pledge to respect the privacy and dignity of all participants and aim to create a supportive environment for collaboration, learning, and growth.
+## How to Contribute
 
-## Our Standards
-Examples of behavior that contributes to a positive environment include:
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy and kindness toward other community members
+### Reporting Bugs
+If you find a bug in the project, please report it by following these steps:
+1. Ensure the bug has not already been reported by searching the [issue tracker](https://github.com/yourusername/yourproject/issues).
+2. If no existing issue matches, create a new issue with a clear description of the problem, how to reproduce it, and any relevant logs or screenshots.
 
-Examples of unacceptable behavior by participants include:
-- The use of sexualized language or imagery, and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or email address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+### Suggesting Enhancements
+We welcome suggestions for new features! Please open an issue with the following information:
+1. A clear description of the enhancement.
+2. Why this enhancement would be beneficial.
+3. Any related resources or examples.
 
-## Enforcement
-Instances of unacceptable behavior may be reported to the project maintainers at [your email/contact information]. All complaints will be reviewed and investigated promptly and fairly.
-
-Participants asked to stop any inappropriate behavior are expected to comply immediately.
-
-## Scope
-This Code of Conduct applies to all spaces managed by the project. This includes but is not limited to online forums, email lists, events, and social media platforms where the project is represented.
-
-## License and Attribution
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct/.
-
+### Pull Requests
+We welcome pull requests from anyone! Here’s how to contribute code:
+1. **Fork the repository** – Fork the project to your own GitHub account and clone it to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
